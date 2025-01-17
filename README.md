@@ -1,4 +1,4 @@
-# Aplicatie_Practica_1_Cirjontu_Ionela SOLUTIA 3
+# Aplicatie_Practica_2_Cirjontu_Ionela 
 
 Acesta este un algoritm care foloseste AdaBoost cu arbori de decizie pentru ranking.
 
